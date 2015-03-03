@@ -14,3 +14,7 @@
 	path = sites/all/themes/bootstrap
 	url = http://git.drupal.org/project/bootstrap.git
 	branch = 7.x-3.x
+[submodule "sites/all/modules/backup_migrate"]
+	path = sites/all/modules/backup_migrate
+	url = http://git.drupal.org/project/backup_migrate.git
+	branch = 7.x-3.x
