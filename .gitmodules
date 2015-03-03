@@ -2,3 +2,7 @@
 	path = sites/all/modules/ctools
 	url = http://git.drupal.org/project/ctools.git
 	branch = 7.x-1.x
+[submodule "sites/all/modules/views"]
+	path = sites/all/modules/views
+	url = http://git.drupal.org/project/views.git
+	branch = 7.x-3.x
