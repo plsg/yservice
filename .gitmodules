@@ -10,3 +10,7 @@
 	path = sites/all/modules/jquery_update
 	url = http://git.drupal.org/project/jquery_update.git
 	branch = 7.x-2.x
+[submodule "sites/all/themes/bootstrap"]
+	path = sites/all/themes/bootstrap
+	url = http://git.drupal.org/project/bootstrap.git
+	branch = 7.x-3.x
